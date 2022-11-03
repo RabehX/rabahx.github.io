@@ -9,4 +9,4 @@ Telegram Channel: [@RabahX](http://t.me/RabahX_Official)
 
 ## Magisk modules
 
-- [Riru Core](https://github.com/RabahX/Riru-Core/releases/tag/26.1.7.r534) - Coming Soon.
+- [Riru Core](https://github.com/RabahX/Riru-Core/releases/) - Inject into zygote process.
