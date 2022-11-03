@@ -1,4 +1,4 @@
-<h2 align="center"><b><img src="https://github.com/RabahX/rabahx.github.io/blob/main/RabahX.jpg"/> Hi, I'm RabahX</b></h2>
+<h2 align="center"><b><img src=""/> Hi, I'm RabahX</b></h2>
 
 Telegram Channel: [@RabahX](http://t.me/RabahX_Official)
 
