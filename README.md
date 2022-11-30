@@ -9,5 +9,5 @@ Telegram Channel: [@RabahX](http://t.me/RabahX_Official)
 
 ## Magisk modules
 
-- [Riru Core](https://github.com/RabahX/Riru-Core/releases/) - Inject into zygote process.
+- [Riru Core MOD](https://github.com/RabahX/RiruCore-MOD/releases/) - This Modified Magisk Module For Riru Core.
 - [YT ReVanced](https://github.com/RabahX/YT-ReVanced-Module/releases/) - This Magisk Module For YouTube ReVanced.
