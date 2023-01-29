@@ -5,7 +5,7 @@ Telegram Channel: [@RabahX](http://t.me/RabahX_Official)
 ## Project
 
 - [Root Detector] - Coming Soon.
-- [Ra Tunnel] - Coming Soon.
+- [XInjector] - Coming Soon.
 
 ## Magisk modules
 
