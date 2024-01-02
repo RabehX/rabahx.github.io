@@ -4,8 +4,7 @@ Telegram Channel: [@RabahX](http://t.me/RabahX_Official)
 
 ## Project
 
-- [Root Detector] - Coming Soon.
-- [XInjector] - Coming Soon.
+- [Securify](https://github.com/RabahX/Securify/releases/) - Coming Soon.
 
 ## Magisk modules
 
